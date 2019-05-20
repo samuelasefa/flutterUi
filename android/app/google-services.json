@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856341902243",
+    "firebase_url": "https://online-bidding-system-db.firebaseio.com",
+    "project_id": "online-bidding-system-db",
+    "storage_bucket": "online-bidding-system-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856341902243:android:df22ebedafef81e5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856341902243-0h3mm95m0o223i26dbabi486cqm24utj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FzRv0UmIOtIOKF1pplSKJhHh69UrfaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
